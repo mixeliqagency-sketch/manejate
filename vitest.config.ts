@@ -8,7 +8,7 @@ export default defineConfig({
     // Simular el entorno del navegador con jsdom
     environment: 'jsdom',
     // Archivo de setup que se ejecuta antes de cada test
-    setupFiles: ['./src/__tests__/setup.ts'],
+    setupFiles: ['./__tests__/setup.ts'],
     globals: true,
   },
   resolve: {
