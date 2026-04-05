@@ -71,7 +71,7 @@ export default function PathSelector() {
               <Link
                 href={path.href}
                 className={[
-                  'group flex flex-col gap-4 rounded-2xl border border-vial-gray-mid bg-white p-6 shadow-lg transition-all duration-200',
+                  'group flex h-full flex-col gap-4 rounded-2xl border border-vial-gray-mid bg-white p-6 shadow-lg transition-all duration-200',
                   path.accentClass,
                   'hover:shadow-xl',
                 ].join(' ')}
