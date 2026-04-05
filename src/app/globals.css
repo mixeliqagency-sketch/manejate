@@ -10,6 +10,25 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+
+  /* === Paleta Manejate === */
+  --color-vial-blue: #1565C0;
+  --color-vial-blue-light: #1E88E5;
+  --color-vial-blue-dark: #0D47A1;
+  --color-vial-yellow: #FFB300;
+  --color-vial-yellow-light: #FFCA28;
+  --color-vial-yellow-dark: #FF8F00;
+  --color-vial-green: #2E7D32;
+  --color-vial-green-light: #43A047;
+  --color-vial-red: #C62828;
+  --color-vial-red-light: #E53935;
+  --color-vial-asphalt: #37474F;
+  --color-vial-asphalt-light: #546E7A;
+  --color-vial-asphalt-dark: #263238;
+  --color-vial-white: #FAFAFA;
+  --color-vial-gray-light: #F5F5F5;
+  --color-vial-gray-mid: #E0E0E0;
+  --font-sans: 'Inter', system-ui, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
