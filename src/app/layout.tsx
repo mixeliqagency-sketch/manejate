@@ -3,6 +3,7 @@ import { Inter } from 'next/font/google'
 import './globals.css'
 import Nav from '@/components/layout/Nav'
 import Footer from '@/components/layout/Footer'
+import { ProgressProvider } from '@/context/ProgressContext'
 
 // Fuente Inter — cargada desde Google Fonts vía next/font (sin FOUT)
 const inter = Inter({
@@ -28,16 +29,19 @@ export default function RootLayout({
   return (
     <html lang="es-AR" className={`${inter.variable} h-full antialiased`}>
       <body className="min-h-full flex flex-col bg-vial-white text-vial-asphalt font-sans">
-        {/* Barra de navegación superior */}
-        <Nav />
+        {/* ProgressProvider provee el estado de progreso del usuario a toda la app */}
+        <ProgressProvider>
+          {/* Barra de navegación superior */}
+          <Nav />
 
-        {/* Contenido principal de cada página */}
-        <main className="flex-1">
-          {children}
-        </main>
+          {/* Contenido principal de cada página */}
+          <main className="flex-1">
+            {children}
+          </main>
 
-        {/* Pie de página */}
-        <Footer />
+          {/* Pie de página */}
+          <Footer />
+        </ProgressProvider>
       </body>
     </html>
   )
