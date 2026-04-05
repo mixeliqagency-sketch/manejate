@@ -1,0 +1,212 @@
+[
+  {
+    "id": "q001",
+    "lessonSlug": "prioridad-normativa",
+    "question": "Según la Ley 2148, ¿cuál es el primer orden de prioridad normativa en CABA?",
+    "options": [
+      "Los semáforos",
+      "Las señales u órdenes de la autoridad de control",
+      "La señalización vertical",
+      "Las normas legales generales"
+    ],
+    "correctIndex": 1,
+    "explanation": "El primer orden de prioridad normativa son las señales u órdenes de la autoridad de control (agentes de tránsito, Policía de la Ciudad, personal autorizado). Sus indicaciones están por encima de cualquier señalización.",
+    "source": "Ley 2148, Manual del Conductor CABA 2019, pág. 63-64"
+  },
+  {
+    "id": "q002",
+    "lessonSlug": "prioridad-normativa",
+    "question": "¿Cuál es el orden correcto de prioridad normativa, de mayor a menor?",
+    "options": [
+      "Semáforo → Agente → Señal transitoria → Señalización → Ley",
+      "Agente → Señal transitoria → Semáforo → Señalización → Ley",
+      "Agente → Semáforo → Señal transitoria → Señalización → Ley",
+      "Señalización → Semáforo → Agente → Señal transitoria → Ley"
+    ],
+    "correctIndex": 1,
+    "explanation": "El orden correcto según la Ley 2148 es: 1° Agente de control, 2° Señales transitorias (naranja), 3° Semáforos, 4° Demarcación horizontal y señalización vertical, 5° Normas legales generales.",
+    "source": "Ley 2148, Manual del Conductor CABA 2019, pág. 63-66"
+  },
+  {
+    "id": "q003",
+    "lessonSlug": "semaforos-y-luces",
+    "question": "¿Qué debe hacer el conductor ante una luz amarilla de semáforo?",
+    "options": [
+      "Acelerar para cruzar antes del rojo",
+      "Detenerse si no llega a cruzar la encrucijada antes del rojo",
+      "Continuar a velocidad normal",
+      "Hacer sonar la bocina y continuar"
+    ],
+    "correctIndex": 1,
+    "explanation": "Con luz amarilla, el conductor debe detenerse si no llega a transponer la encrucijada antes de que cambie a luz roja. Solo se continúa si ya se inició el cruce con seguridad.",
+    "source": "Manual del Conductor CABA 2019, pág. 64"
+  },
+  {
+    "id": "q004",
+    "lessonSlug": "semaforos-y-luces",
+    "question": "¿Qué indica una luz intermitente amarilla de semáforo?",
+    "options": [
+      "Detener la marcha completamente",
+      "Efectuar el cruce con precaución",
+      "Prohibición de circular",
+      "Dar prioridad a peatones únicamente"
+    ],
+    "correctIndex": 1,
+    "explanation": "La luz intermitente amarilla indica que se debe efectuar el cruce con precaución. No obliga a detenerse completamente, pero exige reducir la velocidad y verificar el estado del cruce.",
+    "source": "Manual del Conductor CABA 2019, pág. 64"
+  },
+  {
+    "id": "q005",
+    "lessonSlug": "prioridad-de-paso",
+    "question": "En una rotonda, ¿quién tiene prioridad de paso?",
+    "options": [
+      "El vehículo que quiere ingresar",
+      "El vehículo que circula dentro de la rotonda",
+      "El vehículo que viene desde la derecha",
+      "El vehículo más grande"
+    ],
+    "correctIndex": 1,
+    "explanation": "En una rotonda, la prioridad de paso la tiene el vehículo que ya está circulando dentro de la calzada circular. Entre un vehículo que quiere entrar y uno que desea salir, la prioridad es del que quiere salir.",
+    "source": "Manual del Conductor CABA 2019, pág. 68"
+  },
+  {
+    "id": "q006",
+    "lessonSlug": "prioridad-de-paso",
+    "question": "¿Cuál es la diferencia entre PARE y CEDA EL PASO?",
+    "options": [
+      "No hay diferencia, ambas obligan a detenerse",
+      "Ante PARE se debe frenar a cero; ante CEDA EL PASO la detención solo es obligatoria si facilita el paso de otros",
+      "CEDA EL PASO obliga a detenerse; PARE solo a reducir velocidad",
+      "PARE aplica solo en autopistas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ante PARE, el conductor está obligado a reducir la velocidad y frenar a cero antes de la senda peatonal. Ante CEDA EL PASO, la detención total no es obligatoria, solo cuando facilita la circulación de vehículos con preferencia.",
+    "source": "Manual del Conductor CABA 2019, pág. 68"
+  },
+  {
+    "id": "q007",
+    "lessonSlug": "velocidades",
+    "question": "¿Cuál es la distancia mínima de seguridad establecida por la ley entre dos vehículos en circulación?",
+    "options": [
+      "10 metros fijos",
+      "2 segundos",
+      "5 metros fijos",
+      "La longitud de un vehículo"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ley indica que la distancia mínima de seguridad entre vehículos debe ser de dos segundos. Esta distancia puede variar según las condiciones climáticas, el momento del día y el estado de la calzada.",
+    "source": "Manual del Conductor CABA 2019, pág. 82"
+  },
+  {
+    "id": "q008",
+    "lessonSlug": "giros-y-adelantamiento",
+    "question": "¿Qué define la Ley 2148 como 'sobrepaso'?",
+    "options": [
+      "Superar la velocidad máxima",
+      "Sobrepasar otro vehículo en circulación cambiando de carril",
+      "Sobrepasar otro vehículo sin cambiar de carril",
+      "Circular en sentido contrario al tránsito"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Ley 2148 define sobrepaso como la maniobra consistente en sobrepasar la línea de otro vehículo en circulación cambiando de carril. El adelantamiento, en cambio, se hace sin necesidad de cambiar de carril.",
+    "source": "Manual del Conductor CABA 2019, pág. 73"
+  },
+  {
+    "id": "q009",
+    "lessonSlug": "estacionamiento",
+    "question": "¿Qué indica un cordón pintado de color amarillo?",
+    "options": [
+      "Prohibición de estacionar y detenerse las 24 horas",
+      "Prohibición de estacionar durante las 24 horas, pero la detención está permitida",
+      "Estacionamiento exclusivo para motos",
+      "Zona de carga y descarga"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los cordones pintados de color amarillo indican la prohibición de estacionar durante las 24 horas. Sin embargo, en esos lugares sí está permitida la detención de vehículos (máximo 2 minutos).",
+    "source": "Manual del Conductor CABA 2019, pág. 65"
+  },
+  {
+    "id": "q010",
+    "lessonSlug": "estacionamiento",
+    "question": "¿Qué indica un cordón pintado de color rojo?",
+    "options": [
+      "Prohibición de estacionar pero detención permitida",
+      "Estacionamiento permitido solo de noche",
+      "Prohibición de estacionar y detenerse durante las 24 horas",
+      "Zona de parada de colectivos"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los cordones pintados de color rojo indican la prohibición de estacionar Y detenerse durante las 24 horas. Es más restrictivo que el cordón amarillo, que solo prohíbe estacionar.",
+    "source": "Manual del Conductor CABA 2019, pág. 65"
+  },
+  {
+    "id": "q011",
+    "lessonSlug": "conduccion-especial",
+    "question": "¿Qué es el efecto aquaplaning?",
+    "options": [
+      "La pérdida de dirección por viento fuerte",
+      "El deslizamiento incontrolado causado por una capa de agua que impide el contacto del neumático con el pavimento",
+      "El encandilamiento producido por luces de otro vehículo",
+      "La reducción del campo visual a alta velocidad"
+    ],
+    "correctIndex": 1,
+    "explanation": "El aquaplaning se produce cuando una capa de agua en el pavimento es mayor a la que los neumáticos pueden expulsar. Esto impide el contacto del neumático con el pavimento y puede causar un deslizamiento incontrolado.",
+    "source": "Manual del Conductor CABA 2019, pág. 77"
+  },
+  {
+    "id": "q012",
+    "lessonSlug": "conduccion-especial",
+    "question": "En condiciones de niebla, ¿en qué velocidad máxima debe circular si solo distingue 1 'v' invertida en la señalización horizontal?",
+    "options": [
+      "80 km/h",
+      "60 km/h",
+      "40 km/h",
+      "20 km/h"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cuando desde el vehículo en marcha solo se distingue 1 'v' invertida en la señalización horizontal de niebla, la velocidad máxima permitida es de 40 km/h.",
+    "source": "Manual del Conductor CABA 2019, pág. 76"
+  },
+  {
+    "id": "q013",
+    "lessonSlug": "demarcacion-horizontal",
+    "question": "¿Qué indica una línea continua en la calzada?",
+    "options": [
+      "Se puede cruzar con precaución",
+      "No se puede traspasar ni circular sobre ella",
+      "Indica el centro de la calzada",
+      "Marca la zona de estacionamiento"
+    ],
+    "correctIndex": 1,
+    "explanation": "La línea continua indica que no se la puede traspasar ni circular sobre ella. En cambio, la línea discontinua indica la posibilidad de ser traspasada para realizar maniobras.",
+    "source": "Manual del Conductor CABA 2019, pág. 64"
+  },
+  {
+    "id": "q014",
+    "lessonSlug": "el-conductor-responsable",
+    "question": "Según el manual, ¿qué se considera riesgoso respecto al uso del celular al conducir?",
+    "options": [
+      "Solo sostenarlo en la mano",
+      "Solo hablar sin manos libres",
+      "Tanto manipularlo como usarlo mediante altavoz o auriculares",
+      "Solo leer mensajes de texto"
+    ],
+    "correctIndex": 2,
+    "explanation": "El manual establece que tanto el hecho de manipular un teléfono celular como su uso mediante sistema de altavoz o auriculares son considerados riesgosos al momento de conducir, ya que generan distracción cognitiva.",
+    "source": "Manual del Conductor CABA 2019, pág. 61"
+  },
+  {
+    "id": "q015",
+    "lessonSlug": "giros-y-adelantamiento",
+    "question": "¿En qué casos se puede sobrepasar por la derecha?",
+    "options": [
+      "Nunca, siempre debe ser por la izquierda",
+      "Cuando el vehículo de adelante va a girar a la derecha",
+      "Cuando el vehículo de adelante indica giro o detención a la izquierda, o cuando la fila de la izquierda no avanza",
+      "Solo en autopistas"
+    ],
+    "correctIndex": 2,
+    "explanation": "Se puede sobrepasar por la derecha en dos casos: cuando el vehículo que precede indica claramente intención de girar o detenerse a la izquierda, o cuando hay embotellamiento y la fila de la izquierda no avanza o es más lenta.",
+    "source": "Manual del Conductor CABA 2019, pág. 73"
+  }
+]

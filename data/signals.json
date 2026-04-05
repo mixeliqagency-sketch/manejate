@@ -1,0 +1,100 @@
+[
+  {
+    "id": "sig001",
+    "name": "PARE",
+    "category": "reglamentaria",
+    "description": "Obliga al conductor a reducir la velocidad y frenar a cero antes de la senda peatonal. Es la señal reglamentaria más restrictiva en intersecciones.",
+    "svgPath": "M12 2a10 10 0 100 20A10 10 0 0012 2zm0 3l7 4v6l-7 4-7-4V9l7-4z"
+  },
+  {
+    "id": "sig002",
+    "name": "CEDA EL PASO",
+    "category": "reglamentaria",
+    "description": "Indica que se debe ceder el paso a los vehículos que circulan por la vía con preferencia. La detención total solo es obligatoria cuando es necesaria.",
+    "svgPath": "M12 21L3 6h18L12 21z"
+  },
+  {
+    "id": "sig003",
+    "name": "Prohibición de girar a la izquierda",
+    "category": "reglamentaria",
+    "description": "Círculo blanco con borde rojo y símbolo negro. Prohíbe el giro a la izquierda en la intersección donde se encuentra colocada.",
+    "svgPath": "M12 2a10 10 0 100 20A10 10 0 0012 2zm5 7l-7 7-3-3 1.4-1.4L10 13.2l5.6-5.6L17 9z"
+  },
+  {
+    "id": "sig004",
+    "name": "Prohibición de estacionar",
+    "category": "reglamentaria",
+    "description": "Indica que está prohibido estacionar vehículos en el sector señalizado. No prohíbe la detención breve.",
+    "svgPath": "M12 2a10 10 0 100 20A10 10 0 0012 2zm-1 5h2v6h-2V7zm0 8h2v2h-2v-2z"
+  },
+  {
+    "id": "sig005",
+    "name": "Velocidad máxima",
+    "category": "reglamentaria",
+    "description": "Indica la velocidad máxima permitida en la vía donde se encuentra colocada. Tiene forma circular con borde rojo y número en negro.",
+    "svgPath": "M12 2a10 10 0 100 20A10 10 0 0012 2zm-1 5h2v7h-2V7zm0 9h2v2h-2v-2z"
+  },
+  {
+    "id": "sig006",
+    "name": "Curva peligrosa",
+    "category": "preventiva",
+    "description": "Rombo amarillo con borde y símbolo negro. Advierte la proximidad de una curva que requiere reducción de velocidad y atención especial.",
+    "svgPath": "M12 2L2 22h20L12 2zm0 4l7 14H5l7-14z"
+  },
+  {
+    "id": "sig007",
+    "name": "Cruce ferroviario",
+    "category": "preventiva",
+    "description": "Advierte la proximidad de un cruce de vías férreas a nivel. El conductor debe reducir la velocidad y verificar si se aproxima un tren.",
+    "svgPath": "M12 2L2 22h20L12 2zM11 8h2v6h-2zm0 8h2v2h-2z"
+  },
+  {
+    "id": "sig008",
+    "name": "Calzada resbaladiza",
+    "category": "preventiva",
+    "description": "Rombo amarillo que advierte sobre una calzada con menor adherencia. Se debe reducir la velocidad aunque el pavimento no aparente estarlo.",
+    "svgPath": "M12 2L2 22h20L12 2z"
+  },
+  {
+    "id": "sig009",
+    "name": "Cruce de peatones",
+    "category": "preventiva",
+    "description": "Advierte la proximidad de una senda peatonal con alta circulación de peatones. Exige mayor atención y velocidad precautoria.",
+    "svgPath": "M12 2a10 10 0 100 20A10 10 0 0012 2zm-1 5h2v4h-2V7zm-3 6l4-2 4 2-4 7-4-7z"
+  },
+  {
+    "id": "sig010",
+    "name": "Señal de servicio: Hospital",
+    "category": "informativa",
+    "description": "Fondo azul con símbolo de cruz blanca. Indica la proximidad de un hospital o centro de salud. Recuerda que está prohibido estacionar a menos de 10 metros de la entrada.",
+    "svgPath": "M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V5a2 2 0 00-2-2zm-6 13h-2v-4H7v-2h4V6h2v4h4v2h-4v4z"
+  },
+  {
+    "id": "sig011",
+    "name": "Señal de servicio: Estacionamiento",
+    "category": "informativa",
+    "description": "Fondo azul con letra P blanca. Indica la presencia de un estacionamiento habilitado en las cercanías.",
+    "svgPath": "M19 3H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V5a2 2 0 00-2-2zm-5 9h-3v3h-2V9h5a3 3 0 010 6z"
+  },
+  {
+    "id": "sig012",
+    "name": "Señal de destino",
+    "category": "informativa",
+    "description": "Indica el nombre de una localidad, calle o destino y la dirección para llegar a ella. Ayuda al conductor a orientarse sin consultar mapas.",
+    "svgPath": "M12 2a10 10 0 100 20A10 10 0 0012 2zm1 11l-4-4 1.4-1.4L13 10.2l5.6-5.6L20 6l-7 7z"
+  },
+  {
+    "id": "sig013",
+    "name": "Cono de obras",
+    "category": "transitoria",
+    "description": "Señal transitoria de color naranja. Se usa para delimitar zonas de trabajo o peligro temporal en la vía. Tiene prioridad sobre semáforos y señalización habitual.",
+    "svgPath": "M12 2L6 20h12L12 2z"
+  },
+  {
+    "id": "sig014",
+    "name": "Cartel de obra en rombo naranja",
+    "category": "transitoria",
+    "description": "Cartel vertical de forma romboidal y color naranja que indica trabajos en la vía. Su color naranja predominante lo distingue de la señalización permanente.",
+    "svgPath": "M12 2l10 10-10 10L2 12 12 2z"
+  }
+]

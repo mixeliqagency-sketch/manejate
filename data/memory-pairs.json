@@ -1,0 +1,128 @@
+[
+  {
+    "id": "mp001",
+    "lessonSlug": "semaforos-y-luces",
+    "signal": "🔴 Luz roja",
+    "signalLabel": "Semáforo en rojo",
+    "meaning": "Detenerse antes de la senda peatonal o línea de detención"
+  },
+  {
+    "id": "mp002",
+    "lessonSlug": "semaforos-y-luces",
+    "signal": "🟡 Luz amarilla",
+    "signalLabel": "Semáforo en amarillo",
+    "meaning": "Detenerse si no se llega a cruzar la encrucijada antes del rojo"
+  },
+  {
+    "id": "mp003",
+    "lessonSlug": "semaforos-y-luces",
+    "signal": "🟢 Luz verde",
+    "signalLabel": "Semáforo en verde",
+    "meaning": "Habilitado para avanzar, con precaución hacia peatones y vehículos que terminan de cruzar"
+  },
+  {
+    "id": "mp004",
+    "lessonSlug": "semaforos-y-luces",
+    "signal": "🔴💫 Rojo intermitente",
+    "signalLabel": "Luz roja intermitente",
+    "meaning": "Detener la marcha; reanudar solo cuando no haya riesgo"
+  },
+  {
+    "id": "mp005",
+    "lessonSlug": "semaforos-y-luces",
+    "signal": "🟡💫 Amarillo intermitente",
+    "signalLabel": "Luz amarilla intermitente",
+    "meaning": "Efectuar el cruce con precaución"
+  },
+  {
+    "id": "mp006",
+    "lessonSlug": "demarcacion-horizontal",
+    "signal": "— — — Línea discontinua",
+    "signalLabel": "Línea discontinua",
+    "meaning": "Indica la posibilidad de ser traspasada para cambiar de carril"
+  },
+  {
+    "id": "mp007",
+    "lessonSlug": "demarcacion-horizontal",
+    "signal": "——— Línea continua",
+    "signalLabel": "Línea continua",
+    "meaning": "No se puede traspasar ni circular sobre ella"
+  },
+  {
+    "id": "mp008",
+    "lessonSlug": "demarcacion-horizontal",
+    "signal": "🟡 Cordón amarillo",
+    "signalLabel": "Cordón amarillo",
+    "meaning": "Prohibición de estacionar las 24 hs; detención permitida"
+  },
+  {
+    "id": "mp009",
+    "lessonSlug": "demarcacion-horizontal",
+    "signal": "🔴 Cordón rojo",
+    "signalLabel": "Cordón rojo",
+    "meaning": "Prohibición de estacionar y detenerse las 24 horas"
+  },
+  {
+    "id": "mp010",
+    "lessonSlug": "demarcacion-horizontal",
+    "signal": "🟠 Cordón naranja",
+    "signalLabel": "Cordón naranja",
+    "meaning": "Estacionamiento exclusivo para ciclorodados y motovehículos"
+  },
+  {
+    "id": "mp011",
+    "lessonSlug": "senales-reglamentarias",
+    "signal": "🛑 PARE",
+    "signalLabel": "Señal PARE",
+    "meaning": "Obligación de reducir velocidad y frenar a cero antes de la senda peatonal"
+  },
+  {
+    "id": "mp012",
+    "lessonSlug": "senales-reglamentarias",
+    "signal": "⬇️ CEDA EL PASO",
+    "signalLabel": "Señal Ceda el Paso",
+    "meaning": "Ceder el paso a quienes tienen preferencia; detención total solo si es necesario"
+  },
+  {
+    "id": "mp013",
+    "lessonSlug": "senales-preventivas",
+    "signal": "◇ Rombo amarillo",
+    "signalLabel": "Señal preventiva",
+    "meaning": "Advertencia de peligro o variación en la vía; no obliga pero exige precaución"
+  },
+  {
+    "id": "mp014",
+    "lessonSlug": "senales-informativas",
+    "signal": "🔵 Fondo azul con símbolo",
+    "signalLabel": "Señal informativa de servicio",
+    "meaning": "Brindan información sobre servicios, lugares o referencias útiles para el usuario"
+  },
+  {
+    "id": "mp015",
+    "lessonSlug": "prioridad-normativa",
+    "signal": "🟠 Cono/cartel naranja",
+    "signalLabel": "Señal transitoria",
+    "meaning": "Señalización de obras o trabajos temporales; prioridad sobre señalización habitual"
+  },
+  {
+    "id": "mp016",
+    "lessonSlug": "conduccion-especial",
+    "signal": "🚗💨 Balizas encendidas",
+    "signalLabel": "Luces de emergencia (balizas)",
+    "meaning": "Indica que el vehículo está detenido, próximo a detenerse o en emergencia"
+  },
+  {
+    "id": "mp017",
+    "lessonSlug": "giros-y-adelantamiento",
+    "signal": "↗️ Luz de giro izquierda",
+    "signalLabel": "Indicador de giro izquierdo",
+    "meaning": "Anticipar maniobra de giro o cambio de carril hacia la izquierda; activar al menos 5 segundos antes"
+  },
+  {
+    "id": "mp018",
+    "lessonSlug": "demarcacion-horizontal",
+    "signal": "X Cruz de San Andrés",
+    "signalLabel": "Cruz de San Andrés en calzada",
+    "meaning": "Advierte la proximidad de un cruce ferroviario a nivel"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "fb001",
+    "lessonSlug": "prioridad-normativa",
+    "textBefore": "Según la Ley 2148, el orden de prioridad normativa establece que las señales",
+    "textAfter": "tienen mayor prioridad que los semáforos.",
+    "options": [
+      "informativas",
+      "transitorias",
+      "reglamentarias",
+      "preventivas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Las señales transitorias (de color naranja, usadas en obras) ocupan el segundo lugar en el orden de prioridad, por encima de los semáforos. Su temporalidad no reduce su autoridad normativa."
+  },
+  {
+    "id": "fb002",
+    "lessonSlug": "velocidades",
+    "textBefore": "La distancia mínima de seguridad entre dos vehículos en circulación establecida por la ley es de",
+    "textAfter": ", aunque puede aumentar según las condiciones climáticas y de la calzada.",
+    "options": [
+      "10 metros",
+      "5 segundos",
+      "2 segundos",
+      "50 metros"
+    ],
+    "correctIndex": 2,
+    "explanation": "La ley establece que la distancia de seguridad mínima es de dos segundos. Esta se mide tomando un punto fijo y contando cuánto tarda nuestro vehículo en pasar por el mismo punto que ya pasó el vehículo de adelante."
+  },
+  {
+    "id": "fb003",
+    "lessonSlug": "demarcacion-horizontal",
+    "textBefore": "Los cordones pintados de color",
+    "textAfter": "indican la prohibición de estacionar y detenerse durante las 24 horas.",
+    "options": [
+      "amarillo",
+      "naranja",
+      "blanco",
+      "rojo"
+    ],
+    "correctIndex": 3,
+    "explanation": "El cordón rojo es la señalización más restrictiva: prohíbe tanto estacionar como detenerse durante las 24 horas del día. El cordón amarillo solo prohíbe estacionar, pero permite la detención breve."
+  },
+  {
+    "id": "fb004",
+    "lessonSlug": "giros-y-adelantamiento",
+    "textBefore": "Antes de realizar un sobrepaso, el conductor debe advertir al vehículo de adelante haciendo",
+    "textAfter": "y colocar la luz de giro izquierda hasta concluir el desplazamiento lateral.",
+    "options": [
+      "sonar la bocina repetidamente",
+      "destellos con las luces frontales",
+      "señas con la mano",
+      "encender las balizas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Antes de iniciar un sobrepaso, el conductor debe advertir al vehículo de adelante haciendo destellos con las luces frontales (guiñadas) y luego colocar el indicador de giro izquierdo hasta completar el movimiento lateral."
+  },
+  {
+    "id": "fb005",
+    "lessonSlug": "estacionamiento",
+    "textBefore": "Al estacionar en paralelo al cordón, el vehículo debe ubicarse a",
+    "textAfter": "del cordón y a una distancia adecuada de los otros vehículos.",
+    "options": [
+      "50 centímetros",
+      "10 centímetros",
+      "20 centímetros",
+      "1 metro"
+    ],
+    "correctIndex": 2,
+    "explanation": "La norma establece que al estacionar en paralelo al cordón, el vehículo debe estar a 20 centímetros del cordón. Esta es la forma correcta general cuando no hay demarcación o señalización que indique otra manera."
+  },
+  {
+    "id": "fb006",
+    "lessonSlug": "conduccion-especial",
+    "textBefore": "Cuando un vehículo no puede alcanzar la velocidad mínima exigida en una autopista, debe circular por el carril",
+    "textAfter": "y abandonar la autopista en la primera salida.",
+    "options": [
+      "izquierdo",
+      "central",
+      "de sobrepasos",
+      "derecho"
+    ],
+    "correctIndex": 3,
+    "explanation": "Si un vehículo no puede alcanzar la velocidad mínima exigida en una autopista, debe circular por el carril derecho y salir en la primera salida disponible para llamar al auxilio del vehículo."
+  }
+]

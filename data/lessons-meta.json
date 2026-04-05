@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "slug": "el-conductor-responsable",
+    "title": "El conductor responsable",
+    "description": "Factores que afectan la conducción: cinturón de seguridad, uso del celular, alcohol y otras distracciones.",
+    "topics": [
+      "Cinturón de seguridad",
+      "Uso del celular al volante",
+      "Alcohol y drogas",
+      "Distracciones al conducir",
+      "Responsabilidad vial"
+    ],
+    "icon": "🛡️"
+  },
+  {
+    "id": 2,
+    "slug": "prioridad-normativa",
+    "title": "Prioridad normativa",
+    "description": "El orden legal de prioridad: agente de tránsito, señales transitorias, semáforos, señalización vertical y normas generales.",
+    "topics": [
+      "Orden de prioridad normativa",
+      "Agentes de control",
+      "Señales transitorias",
+      "Semáforos",
+      "Ley 2148"
+    ],
+    "icon": "⚖️"
+  },
+  {
+    "id": 3,
+    "slug": "semaforos-y-luces",
+    "title": "Semáforos y luces",
+    "description": "Tipos de semáforos, significado de cada color, luces intermitentes y señales luminosas peatonales.",
+    "topics": [
+      "Semáforo de tres tiempos",
+      "Luz roja, amarilla y verde",
+      "Luz intermitente roja y amarilla",
+      "Semáforos peatonales",
+      "Uso de luces del vehículo"
+    ],
+    "icon": "🚦"
+  },
+  {
+    "id": 4,
+    "slug": "senales-reglamentarias",
+    "title": "Señales reglamentarias",
+    "description": "Señales de prohibición, obligación y prioridad que imponen conductas de cumplimiento obligatorio.",
+    "topics": [
+      "Señales de prohibición",
+      "Señales de obligación",
+      "Señales de prioridad",
+      "PARE y CEDA EL PASO",
+      "Forma y colores de señales"
+    ],
+    "icon": "🚫"
+  },
+  {
+    "id": 5,
+    "slug": "senales-preventivas",
+    "title": "Señales preventivas",
+    "description": "Señales que advierten sobre curvas, cruces, peligros y variaciones en la vía que requieren precaución.",
+    "topics": [
+      "Curvas y pendientes",
+      "Cruces ferroviarios",
+      "Calzada resbaladiza",
+      "Cruces de peatones",
+      "Forma de rombo amarillo"
+    ],
+    "icon": "⚠️"
+  },
+  {
+    "id": 6,
+    "slug": "senales-informativas",
+    "title": "Señales informativas",
+    "description": "Señales que brindan orientación sobre servicios, destinos y referencias útiles para el conductor.",
+    "topics": [
+      "Señales de servicio",
+      "Señales de destino",
+      "Señales de referencia",
+      "Fondo azul y blanco",
+      "Información vial"
+    ],
+    "icon": "ℹ️"
+  },
+  {
+    "id": 7,
+    "slug": "demarcacion-horizontal",
+    "title": "Demarcación horizontal",
+    "description": "Marcas sobre la calzada: líneas longitudinales, sendas peatonales, cordones de colores e isletas.",
+    "topics": [
+      "Línea continua y discontinua",
+      "Senda peatonal",
+      "Cordones amarillo, rojo y naranja",
+      "Isletas",
+      "Marcas de dirección"
+    ],
+    "icon": "🛣️"
+  },
+  {
+    "id": 8,
+    "slug": "prioridad-de-paso",
+    "title": "Prioridad de paso",
+    "description": "Reglas de prioridad para emergencias, rotondas, intersecciones semaforizadas y sin semáforo.",
+    "topics": [
+      "Vehículos de emergencia",
+      "Intersecciones sin semáforo",
+      "Regla de la derecha",
+      "Rotondas",
+      "Vehículos en pendiente"
+    ],
+    "icon": "🔄"
+  },
+  {
+    "id": 9,
+    "slug": "giros-y-adelantamiento",
+    "title": "Giros y adelantamiento",
+    "description": "Procedimientos correctos para girar a izquierda y derecha, adelantamiento y sobrepaso.",
+    "topics": [
+      "Giro a la derecha",
+      "Giro a la izquierda",
+      "Adelantamiento vs sobrepaso",
+      "Uso de luz de giro",
+      "Maniobra RSM"
+    ],
+    "icon": "↩️"
+  },
+  {
+    "id": 10,
+    "slug": "velocidades",
+    "title": "Velocidades",
+    "description": "Límites máximos y mínimos por tipo de vía, velocidad precautoria y distancia de seguridad.",
+    "topics": [
+      "Velocidades máximas en CABA",
+      "Velocidades mínimas",
+      "Velocidad precautoria",
+      "Distancia de seguridad",
+      "Tiempo de reacción"
+    ],
+    "icon": "🏎️"
+  },
+  {
+    "id": 11,
+    "slug": "estacionamiento",
+    "title": "Estacionamiento",
+    "description": "Formas de estacionamiento, detención, prohibiciones generales y especiales en CABA.",
+    "topics": [
+      "Estacionamiento paralelo",
+      "Estacionamiento a 45° y 90°",
+      "Detención permitida",
+      "Cordón amarillo y rojo",
+      "Prohibiciones especiales"
+    ],
+    "icon": "🅿️"
+  },
+  {
+    "id": 12,
+    "slug": "conduccion-especial",
+    "title": "Conducción especial",
+    "description": "Conducción en autopistas, lluvia, niebla, noche y otras situaciones adversas.",
+    "topics": [
+      "Conducción en autopistas",
+      "Lluvia y aquaplaning",
+      "Niebla y visibilidad",
+      "Conducción nocturna",
+      "Banquina y emergencias"
+    ],
+    "icon": "🌧️"
+  }
+]

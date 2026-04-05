@@ -1,0 +1,90 @@
+[
+  {
+    "type": "memory",
+    "name": "Memoria de señales",
+    "description": "Encontrá los pares de señales de tránsito y su significado antes de que se acabe el tiempo.",
+    "icon": "🧠",
+    "difficulty": "facil",
+    "xpReward": 50
+  },
+  {
+    "type": "quiz",
+    "name": "Quiz de tránsito",
+    "description": "Respondé preguntas de opción múltiple sobre las normas de circulación en CABA.",
+    "icon": "❓",
+    "difficulty": "medio",
+    "xpReward": 75
+  },
+  {
+    "type": "true-or-false",
+    "name": "Verdadero o falso",
+    "description": "Decidí si cada afirmación sobre el código de tránsito es verdadera o falsa.",
+    "icon": "✅",
+    "difficulty": "facil",
+    "xpReward": 40
+  },
+  {
+    "type": "fill-blank",
+    "name": "Completá la norma",
+    "description": "Completá los espacios en blanco de artículos clave del código de tránsito de CABA.",
+    "icon": "✏️",
+    "difficulty": "medio",
+    "xpReward": 60
+  },
+  {
+    "type": "crossword",
+    "name": "Crucigrama vial",
+    "description": "Resolvé el crucigrama con términos del manual del conductor.",
+    "icon": "🔤",
+    "difficulty": "dificil",
+    "xpReward": 100
+  },
+  {
+    "type": "word-search",
+    "name": "Sopa de letras",
+    "description": "Encontrá las palabras del vocabulario vial escondidas en la grilla.",
+    "icon": "🔍",
+    "difficulty": "facil",
+    "xpReward": 45
+  },
+  {
+    "type": "drag-classify",
+    "name": "Clasificá las señales",
+    "description": "Arrastrá cada señal a su categoría correcta: reglamentaria, preventiva o informativa.",
+    "icon": "🗂️",
+    "difficulty": "medio",
+    "xpReward": 65
+  },
+  {
+    "type": "hangman",
+    "name": "El ahorcado vial",
+    "description": "Adiviná la palabra relacionada con el tránsito antes de quedarte sin intentos.",
+    "icon": "🎯",
+    "difficulty": "medio",
+    "xpReward": 55
+  },
+  {
+    "type": "road-situation",
+    "name": "¿Qué harías?",
+    "description": "Analizá situaciones reales de tránsito y elegí la conducta correcta según el código.",
+    "icon": "🚗",
+    "difficulty": "dificil",
+    "xpReward": 120
+  },
+  {
+    "type": "exam-simulator",
+    "name": "Simulacro de examen",
+    "description": "Simulá el examen oficial con preguntas al estilo del registro de conducir de CABA.",
+    "icon": "📝",
+    "difficulty": "dificil",
+    "xpReward": 200
+  },
+  {
+    "type": "order-steps",
+    "name": "Ordená los pasos",
+    "description": "Poné en el orden correcto los pasos para realizar maniobras de tránsito.",
+    "icon": "📋",
+    "difficulty": "medio",
+    "xpReward": 70
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "hw001",
+    "lessonSlug": "conduccion-especial",
+    "word": "AQUAPLANING",
+    "hint": "Efecto que se produce cuando una capa de agua impide el contacto del neumático con el pavimento"
+  },
+  {
+    "id": "hw002",
+    "lessonSlug": "prioridad-de-paso",
+    "word": "ROTONDA",
+    "hint": "Intersección circular donde tiene prioridad el vehículo que ya circula dentro"
+  },
+  {
+    "id": "hw003",
+    "lessonSlug": "giros-y-adelantamiento",
+    "word": "SOBREPASO",
+    "hint": "Maniobra de superar otro vehículo en circulación cambiando de carril"
+  },
+  {
+    "id": "hw004",
+    "lessonSlug": "demarcacion-horizontal",
+    "word": "ISLETA",
+    "hint": "Marca en la calzada que canaliza el tránsito; no se puede traspasar ni estacionar sobre ella"
+  },
+  {
+    "id": "hw005",
+    "lessonSlug": "velocidades",
+    "word": "PRECAUTORIA",
+    "hint": "Tipo de velocidad que permite al conductor tener dominio total del vehículo según las circunstancias"
+  },
+  {
+    "id": "hw006",
+    "lessonSlug": "semaforos-y-luces",
+    "word": "ENCANDILAMIENTO",
+    "hint": "Ceguera temporal producida por cambios bruscos de intensidad de luz; dura entre 4 y 7 segundos"
+  },
+  {
+    "id": "hw007",
+    "lessonSlug": "prioridad-normativa",
+    "word": "TRANSITORIA",
+    "hint": "Tipo de señal de color naranja usada en obras; tiene prioridad sobre semáforos"
+  },
+  {
+    "id": "hw008",
+    "lessonSlug": "estacionamiento",
+    "word": "DETENCIÓN",
+    "hint": "Permanencia sin movimiento junto a la acera por un máximo de 2 minutos para ascenso/descenso de pasajeros"
+  },
+  {
+    "id": "hw009",
+    "lessonSlug": "conduccion-especial",
+    "word": "BANQUINA",
+    "hint": "Zona lateral de la autopista; solo se puede usar en casos de emergencia"
+  },
+  {
+    "id": "hw010",
+    "lessonSlug": "velocidades",
+    "word": "REACCION",
+    "hint": "Tiempo que tarda un conductor óptimo entre percibir el riesgo y decidir qué hacer; aproximadamente 1 segundo"
+  },
+  {
+    "id": "hw011",
+    "lessonSlug": "demarcacion-horizontal",
+    "word": "SENDA",
+    "hint": "Espacio delimitado por líneas blancas y negras (estilo cebra) designado para el cruce de peatones"
+  },
+  {
+    "id": "hw012",
+    "lessonSlug": "senales-preventivas",
+    "word": "FERROVIARIO",
+    "hint": "Tipo de cruce advertido por la Cruz de San Andrés pintada en la calzada"
+  }
+]

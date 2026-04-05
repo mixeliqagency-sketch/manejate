@@ -1,0 +1,66 @@
+[
+  {
+    "id": "os001",
+    "lessonSlug": "giros-y-adelantamiento",
+    "title": "Pasos para realizar un sobrepaso seguro",
+    "steps": [
+      "Verificar por el espejo retrovisor que ningún vehículo detrás intente sobrepasar",
+      "Hacer destellos con las luces frontales para advertir al vehículo de adelante",
+      "Activar la luz de giro izquierda",
+      "Verificar que el carril izquierdo esté libre y con distancia suficiente",
+      "Realizar el desplazamiento lateral sin demoras y sin superar la velocidad máxima",
+      "Activar la luz de giro derecha y volver al carril derecho gradualmente sin interferir al sobrepasado"
+    ]
+  },
+  {
+    "id": "os002",
+    "lessonSlug": "estacionamiento",
+    "title": "Pasos para estacionar en paralelo al cordón",
+    "steps": [
+      "Activar las balizas para advertir al tránsito que se va a detener",
+      "Situarse en doble fila junto al vehículo que está delante del espacio libre",
+      "Iniciar la maniobra de marcha atrás con las luces de retroceso encendidas",
+      "Maniobrar sin empujar otros vehículos ni subir a la acera",
+      "Posicionar el vehículo a 20 centímetros del cordón",
+      "Apagar las balizas y asegurarse de no obstruir el tránsito"
+    ]
+  },
+  {
+    "id": "os003",
+    "lessonSlug": "conduccion-especial",
+    "title": "Pasos para salir correctamente de una autopista",
+    "steps": [
+      "Identificar con anticipación cuál es la salida que se utilizará",
+      "Activar la luz de giro derecha con anticipación",
+      "Situarse en el carril derecho",
+      "Ingresar al carril de desaceleración",
+      "Reducir la velocidad progresivamente dentro del carril de desaceleración",
+      "Readaptar la velocidad al ingresar a la vía convencional con intersecciones"
+    ]
+  },
+  {
+    "id": "os004",
+    "lessonSlug": "giros-y-adelantamiento",
+    "title": "Secuencia RSM para anticipar maniobras",
+    "steps": [
+      "Retrovisión: observar el contexto por los espejos retrovisores",
+      "Señal: activar la luz de giro correspondiente al menos 5 segundos antes del cambio de carril",
+      "Reducir la velocidad paulatinamente antes de realizar el giro",
+      "Maniobra: ejecutar el giro en la bocacalle, no antes",
+      "Verificar que no hay peatones o vehículos que crucen con prioridad"
+    ]
+  },
+  {
+    "id": "os005",
+    "lessonSlug": "el-conductor-responsable",
+    "title": "Qué hacer si necesitás atender el celular mientras manejás",
+    "steps": [
+      "Encender las balizas para indicar que el vehículo se detendrá",
+      "Reducir la velocidad gradualmente",
+      "Buscar un lugar permitido para detenerse (sin cordón rojo, sin zonas prohibidas)",
+      "Detenerse completamente junto al cordón",
+      "Atender el celular con el vehículo detenido",
+      "Antes de reanudar la marcha, verificar el tránsito por los espejos y activar la luz de giro"
+    ]
+  }
+]

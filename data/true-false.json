@@ -1,0 +1,82 @@
+[
+  {
+    "id": "tf001",
+    "lessonSlug": "semaforos-y-luces",
+    "statement": "Ante una luz roja intermitente, el conductor puede reiniciar la marcha sin detenerse si no ve otros vehículos.",
+    "isTrue": false,
+    "explanation": "Ante una luz intermitente roja, el conductor DEBE detener la marcha. Solo se reiniciará cuando tenga la certeza de que no existe riesgo. No basta con no ver vehículos; hay que detenerse primero.",
+    "source": "Manual del Conductor CABA 2019, pág. 64"
+  },
+  {
+    "id": "tf002",
+    "lessonSlug": "prioridad-normativa",
+    "statement": "Las señales transitorias (de color naranja) tienen mayor prioridad que los semáforos.",
+    "isTrue": true,
+    "explanation": "Correcto. Según la Ley 2148, el orden es: 1° Agente, 2° Señales transitorias, 3° Semáforos. Las señales transitorias se colocan por obras o situaciones temporales y tienen prioridad sobre la señalización habitual, incluyendo los semáforos.",
+    "source": "Manual del Conductor CABA 2019, pág. 63"
+  },
+  {
+    "id": "tf003",
+    "lessonSlug": "demarcacion-horizontal",
+    "statement": "Los cordones pintados de color anaranjado indican prohibición de estacionar y detenerse.",
+    "isTrue": false,
+    "explanation": "Los cordones anaranjados indican los lugares destinados al estacionamiento exclusivo de ciclorodados (bicicletas) y motovehículos. Los que prohíben estacionar son los amarillos, y los que prohíben estacionar y detenerse son los rojos.",
+    "source": "Manual del Conductor CABA 2019, pág. 65"
+  },
+  {
+    "id": "tf004",
+    "lessonSlug": "prioridad-de-paso",
+    "statement": "En una intersección sin semáforo entre arterias de igual jerarquía, siempre tiene prioridad el vehículo que viene por la derecha, sin excepciones.",
+    "isTrue": false,
+    "explanation": "La regla de la derecha tiene excepciones: cuando existe señalización que indica lo contrario (PARE o CEDA EL PASO), cuando se circula junto a vías férreas, cuando hay una rotonda, cuando el de la derecha detiene su marcha, o cuando el de la derecha no quiere cruzar sino girar.",
+    "source": "Manual del Conductor CABA 2019, pág. 68"
+  },
+  {
+    "id": "tf005",
+    "lessonSlug": "velocidades",
+    "statement": "La velocidad mínima en cualquier arteria es la mitad de la velocidad máxima fijada para esa arteria.",
+    "isTrue": true,
+    "explanation": "Correcto. Los límites mínimos de velocidad se establecen a la mitad de los límites máximos fijados para cada tipo de arteria. Circular por debajo del mínimo también puede provocar incidentes.",
+    "source": "Manual del Conductor CABA 2019, pág. 83"
+  },
+  {
+    "id": "tf006",
+    "lessonSlug": "conduccion-especial",
+    "statement": "En autopistas de CABA, el uso de las luces bajas es obligatorio solo de noche.",
+    "isTrue": false,
+    "explanation": "En CABA, el uso de luces bajas es obligatorio durante las 24 horas en todas las autopistas y en las avenidas Intendente Cantilo, Leopoldo Lugones y General Paz, independientemente del horario o las condiciones climáticas.",
+    "source": "Manual del Conductor CABA 2019, pág. 71"
+  },
+  {
+    "id": "tf007",
+    "lessonSlug": "estacionamiento",
+    "statement": "Un vehículo con emblema internacional de discapacidad puede estacionar en cualquier lugar de la vía pública.",
+    "isTrue": false,
+    "explanation": "La franquicia de libre estacionamiento para personas con discapacidad no habilita a estacionar en cualquier lugar. Solo permite hacerlo donde normalmente no se puede, siempre que no se violen prohibiciones especiales ni se entorpezca el tránsito.",
+    "source": "Manual del Conductor CABA 2019, pág. 91"
+  },
+  {
+    "id": "tf008",
+    "lessonSlug": "giros-y-adelantamiento",
+    "statement": "Para girar a la derecha en una arteria de doble sentido, el conductor debe posicionarse en el carril más cercano a la vereda derecha al menos 30 metros antes.",
+    "isTrue": true,
+    "explanation": "Correcto. Para girar a la derecha en arterias de doble sentido de circulación, se debe circular 30 metros antes por el carril disponible más cercano a la vereda del lado hacia el cual se desea girar.",
+    "source": "Manual del Conductor CABA 2019, pág. 73"
+  },
+  {
+    "id": "tf009",
+    "lessonSlug": "el-conductor-responsable",
+    "statement": "Usar el celular con auriculares es seguro al conducir porque las manos quedan libres.",
+    "isTrue": false,
+    "explanation": "El manual establece que el uso del celular mediante auriculares también es riesgoso al conducir. Aunque las manos estén libres, la conversación genera una distracción cognitiva significativa que desvía la atención del tránsito.",
+    "source": "Manual del Conductor CABA 2019, pág. 61"
+  },
+  {
+    "id": "tf010",
+    "lessonSlug": "conduccion-especial",
+    "statement": "En condiciones de niebla, se recomienda encender las balizas mientras se circula para alertar al resto de los conductores.",
+    "isTrue": false,
+    "explanation": "Encender las balizas mientras se circula en niebla es un error común que puede confundir al resto de conductores, ya que podrían interpretar que el vehículo está detenido. En niebla se deben usar luces bajas y eventualmente luces rompeniebla.",
+    "source": "Manual del Conductor CABA 2019, pág. 76"
+  }
+]
