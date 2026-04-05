@@ -30,8 +30,13 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
-.env*
+# env files (pueden incluirse si es necesario, pero los locales nunca)
+.env
+.env.local
+.env.*.local
+
+# Superpowers - carpeta interna de Claude Code
+.superpowers/
 
 # vercel
 .vercel
