@@ -4,7 +4,9 @@
 // Colores: blue (azul), green (verde), yellow (amarillo)
 // Tamaños: sm (h-2), md (h-3)
 
-import { motion } from 'framer-motion'
+import { motion, type Easing } from 'framer-motion'
+
+const EASE_OUT: Easing = 'easeOut'
 
 type BarColor = 'blue' | 'green' | 'yellow'
 type BarSize = 'sm' | 'md'
@@ -59,7 +61,7 @@ export default function ProgressBar({
           className={['h-full rounded-full', colorClasses[color]].join(' ')}
           initial={{ width: 0 }}
           animate={{ width: `${clamped}%` }}
-          transition={{ duration: 0.6, ease: 'easeOut' }}
+          transition={{ duration: 0.6, ease: EASE_OUT }}
         />
       </div>
     </div>
